@@ -1,1 +1,1 @@
-# Black-and-Scholes-Option-Pricing-and-Analysis
+# Black & Scholes Model for Option Pricing & Analysis (Greeks & Implied Volatility)
